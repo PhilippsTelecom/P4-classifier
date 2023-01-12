@@ -60,8 +60,6 @@
 - X/Y ~ X>>**a** + X>>**b** + X>>**c**
 - For Y in [1;4095] (`2**12-1`)
 - Will be used for **mean** and **std** calculation
-
-
 - :bangbang: We always have 3 reverse power of 2 (:point_right: +1/2<sup>**255**</sup> if not necessary)
 - :bangbang: The same table is present twice (impossible to look twice)
 
