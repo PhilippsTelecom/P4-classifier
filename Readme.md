@@ -69,7 +69,7 @@
 - More details: :point_right: in this folder
 - Represents a feature with an **Index**
 - Function of the thresholds of that feature in the DT
-| Feat<sub>i</sub> | 0 | 37 | 42 | 58 | 63 |
+- | Feat<sub>i</sub> | 0 | 37 | 42 | 58 | 63 |
 |-|-|-|-|-|-|
 - If Feat<sub>i</sub> = 41
   - 37<41<42
